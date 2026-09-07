@@ -1,0 +1,66 @@
+[09-Sep-2024 19:42:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(2): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[10-Sep-2024 19:06:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(2): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 05:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(2): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 05:34:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(2): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 05:52:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(2): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 06:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(2): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 06:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(2): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 06:21:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(5): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 06:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(5): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[12-Sep-2024 06:22:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/westenfi/public_html/role/includes/logic/userSignup.php:24
+Stack trace:
+#0 /home/westenfi/public_html/role/signup.php(5): include()
+#1 {main}
+  thrown in /home/westenfi/public_html/role/includes/logic/userSignup.php on line 24
+[16-Sep-2024 11:39:24 UTC] PHP Fatal error:  Cannot redeclare isUser() (previously declared in /home/westenfi/public_html/role/includes/logic/common_functions.php:13) in /home/westenfi/public_html/role/includes/logic/common_functions.php on line 23
+[16-Sep-2024 11:39:32 UTC] PHP Fatal error:  Cannot redeclare isUser() (previously declared in /home/westenfi/public_html/role/includes/logic/common_functions.php:13) in /home/westenfi/public_html/role/includes/logic/common_functions.php on line 23
+[22-Sep-2024 18:26:04 UTC] PHP Warning:  require_once(.../includes/load.php): failed to open stream: No such file or directory in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:26:04 UTC] PHP Fatal error:  require_once(): Failed opening required '.../includes/load.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:49:18 UTC] PHP Notice:  Undefined variable: groups in /home/westenfi/public_html/role/signup.php on line 45
+[22-Sep-2024 18:49:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/westenfi/public_html/role/signup.php on line 45
+[22-Sep-2024 18:49:55 UTC] PHP Notice:  Undefined variable: groups in /home/westenfi/public_html/role/signup.php on line 45
+[22-Sep-2024 18:49:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/westenfi/public_html/role/signup.php on line 45
+[22-Sep-2024 18:51:46 UTC] PHP Warning:  require_once(.../includes/load.php): failed to open stream: No such file or directory in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:51:46 UTC] PHP Fatal error:  require_once(): Failed opening required '.../includes/load.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:52:12 UTC] PHP Warning:  require_once(.../includes/load.php): failed to open stream: No such file or directory in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:52:12 UTC] PHP Fatal error:  require_once(): Failed opening required '.../includes/load.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:52:14 UTC] PHP Warning:  require_once(.../includes/load.php): failed to open stream: No such file or directory in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:52:14 UTC] PHP Fatal error:  require_once(): Failed opening required '.../includes/load.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:52:15 UTC] PHP Warning:  require_once(.../includes/load.php): failed to open stream: No such file or directory in /home/westenfi/public_html/role/signup.php on line 3
+[22-Sep-2024 18:52:15 UTC] PHP Fatal error:  require_once(): Failed opening required '.../includes/load.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/role/signup.php on line 3

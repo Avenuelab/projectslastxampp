@@ -1,0 +1,72 @@
+[15-Dec-2022 02:37:24 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php81/sess_513744782060ec08aafa22eaee15e30e, O_RDWR) failed: No such file or directory (2) in /home/taraknishi/public_html/role/config.php on line 2
+[15-Dec-2022 02:37:24 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php81) in /home/taraknishi/public_html/role/config.php on line 2
+[09-Sep-2024 15:45:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/westenfi/public_html/role/config.php:4
+Stack trace:
+#0 /home/westenfi/public_html/role/config.php(4): mysqli->__construct('localhost', 'admin', 'password', 'inventory_Syste...')
+#1 /home/westenfi/public_html/index.php(1): include('/home/westenfi/...')
+#2 {main}
+  thrown in /home/westenfi/public_html/role/config.php on line 4
+[09-Sep-2024 15:48:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/westenfi/public_html/role/config.php:4
+Stack trace:
+#0 /home/westenfi/public_html/role/config.php(4): mysqli->__construct('localhost', 'admin', 'password', 'inventory_Syste...')
+#1 /home/westenfi/public_html/index.php(1): include('/home/westenfi/...')
+#2 {main}
+  thrown in /home/westenfi/public_html/role/config.php on line 4
+[09-Sep-2024 15:48:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/westenfi/public_html/role/config.php:4
+Stack trace:
+#0 /home/westenfi/public_html/role/config.php(4): mysqli->__construct('localhost', 'admin', 'password', 'inventory_Syste...')
+#1 /home/westenfi/public_html/index.php(1): include('/home/westenfi/...')
+#2 {main}
+  thrown in /home/westenfi/public_html/role/config.php on line 4
+[09-Sep-2024 15:48:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/westenfi/public_html/role/config.php:4
+Stack trace:
+#0 /home/westenfi/public_html/role/config.php(4): mysqli->__construct('localhost', 'admin', 'password', 'inventory_Syste...')
+#1 /home/westenfi/public_html/index.php(1): include('/home/westenfi/...')
+#2 {main}
+  thrown in /home/westenfi/public_html/role/config.php on line 4
+[09-Sep-2024 15:48:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/westenfi/public_html/role/config.php:4
+Stack trace:
+#0 /home/westenfi/public_html/role/config.php(4): mysqli->__construct('localhost', 'admin', 'password', 'inventory_Syste...')
+#1 /home/westenfi/public_html/index.php(1): include('/home/westenfi/...')
+#2 {main}
+  thrown in /home/westenfi/public_html/role/config.php on line 4
+[09-Sep-2024 15:48:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'admin'@'localhost' (using password: YES) in /home/westenfi/public_html/role/config.php:4
+Stack trace:
+#0 /home/westenfi/public_html/role/config.php(4): mysqli->__construct('localhost', 'admin', 'password', 'inventory_Syste...')
+#1 /home/westenfi/public_html/index.php(1): include('/home/westenfi/...')
+#2 {main}
+  thrown in /home/westenfi/public_html/role/config.php on line 4
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(role/config.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 1
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(role/config.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 1
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(): Failed opening 'role/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 1
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(INCLUDE_PATH/logic/common_functions.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(INCLUDE_PATH/logic/common_functions.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(): Failed opening 'INCLUDE_PATH/logic/common_functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/navbar.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/navbar.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(): Failed opening 'INCLUDE_PATH/layouts/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home/westenfi/public_html/index.php on line 31
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/messages.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 31
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/messages.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 31
+[09-Sep-2024 16:02:25 UTC] PHP Warning:  include(): Failed opening 'INCLUDE_PATH/layouts/messages.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 31
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(role/config.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 1
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(role/config.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 1
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(): Failed opening 'role/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 1
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(INCLUDE_PATH/logic/common_functions.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(INCLUDE_PATH/logic/common_functions.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(): Failed opening 'INCLUDE_PATH/logic/common_functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 2
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/navbar.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/navbar.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(): Failed opening 'INCLUDE_PATH/layouts/navbar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 30
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  Use of undefined constant INCLUDE_PATH - assumed 'INCLUDE_PATH' (this will throw an Error in a future version of PHP) in /home/westenfi/public_html/index.php on line 31
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/messages.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 31
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(INCLUDE_PATH/layouts/messages.php): failed to open stream: No such file or directory in /home/westenfi/public_html/index.php on line 31
+[09-Sep-2024 16:02:28 UTC] PHP Warning:  include(): Failed opening 'INCLUDE_PATH/layouts/messages.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/westenfi/public_html/index.php on line 31
+[16-Sep-2024 11:39:27 UTC] PHP Fatal error:  Cannot redeclare isUser() (previously declared in /home/westenfi/public_html/role/includes/logic/common_functions.php:13) in /home/westenfi/public_html/role/includes/logic/common_functions.php on line 23
+[16-Sep-2024 11:39:31 UTC] PHP Fatal error:  Cannot redeclare isUser() (previously declared in /home/westenfi/public_html/role/includes/logic/common_functions.php:13) in /home/westenfi/public_html/role/includes/logic/common_functions.php on line 23
+[16-Sep-2024 11:39:39 UTC] PHP Fatal error:  Cannot redeclare isUser() (previously declared in /home/westenfi/public_html/role/includes/logic/common_functions.php:13) in /home/westenfi/public_html/role/includes/logic/common_functions.php on line 23
+[16-Sep-2024 11:39:44 UTC] PHP Fatal error:  Cannot redeclare isUser() (previously declared in /home/westenfi/public_html/role/includes/logic/common_functions.php:13) in /home/westenfi/public_html/role/includes/logic/common_functions.php on line 23
